@@ -1,0 +1,17 @@
+
+table, tr, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    position: relative;
+    top: 120px;
+    left:445px;
+}
+.row2>th{
+    background-color: #95a5a6 ;
+}
+.row1>th{
+    background-color: #f4d03f ;
+}
